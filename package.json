@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "main": "node main.js"
+  },
+  "dependencies": {
+    "node-tesseract-ocr": "^2.2.1",
+    "puppeteer": "^21.1.1"
+  }
+}
